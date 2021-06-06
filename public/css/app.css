@@ -100,6 +100,7 @@ body {
     float: right;
     background-color: red!important;
     color: white;
+    font-weight: 799;
 }
 .campo a {
     color: black;
@@ -333,4 +334,9 @@ form input[type="submit"]{
     margin: 0;
     text-align: center;
     display: block;
+}
+
+a.home {
+    font-size: 1.4rem;
+    font-weight: bold;
 }
